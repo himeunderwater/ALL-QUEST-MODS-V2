@@ -1,0 +1,155 @@
+MZ�       ��  �       @                                   �   � �	�!�L�!This program cannot be run in DOS mode.
+
+$       PE  L ��n�        � " 0           n=       @                           �          `�                           =  O    @  0                   `      <  T                                                             H           .text   t                           `.rsrc   0   @                     @  @.reloc      `      $              @  B                O=      H     �'  L                                                         ~  *�  * 0 D      (  �
+,6 ~  �, r  ps  
+�   ~  (  
+o  
+ (    *0 .      ~  ,(  +
+, ~  r  po  
+ (    *"(  
+ * 0 �      (   (  
+rA  p(  
+s  
+
+rQ  prm  p"   Ar{  po  +�  rQ  pr�  p"  �Ar�  po  +�  rQ  pr�  p"  @Ar�  po  +�  rQ  pr�  p(  
+r�  po  +�  *
+ *"(  
+ *"(  
+ * 0 <     (  
+o  
+-
+(  
+�+
+,) ~  , ~  (  
+ ~  (  
+ �    (  
+o  
+,
+(  
+�+9�   �  s  
+
+	(   
+ 8�    	o!  
+("  
+�)      �)  (#  
+, 	o!  
+~$  
+  (%  
+& 	o!  
+("  
+�)      �)  (#  
+, 	o!  
+~$  
+  (%  
+&  X	o&  
+�:S���~  �		9   s'  
+
+~  o(  
+�  ~  o(  
+�  ~  o(  
+�  ~  o)  
+�  o*  
+o  +�  ~  r p(,  
+s-  
+o.  
+ ~  ~  o/  
+ ~  ~  o0  
+ ~  "
+ף<o1  
+ ~  "
+ף<o2  
+ 
+o  +�  ~  r p(,  
+s-  
+o.  
+ ~  ~  o/  
+ ~  ~  o0  
+ ~  "
+ף<o1  
+ ~  "
+ף<o2  
+ �   (   (   ~  "���=�,- ~
+  , ~  o(  
+�  (   �
+    + (
+    ~  "���=6~  "���=�+
+
+, ~  "   @[�   + ~  o(  
+�   ~  "���=�,- ~  , ~  o(  
+�  (   �    + (     *0 �      {3  
+o4  
+{3  
+o5  
+ ~  (6  
+9�     (7  
+�  o*  
+o  +�  ~  o8  
+ ~  ~  o9  
+ {:  
+o;  
+o<  
+~  (=  
+~  "��L?Zo>  
+ ~  "  �>Zo?  
+ ~  ~  o@  
+ ~  ~  oA  
+ ~  ~  oB  
+ ~  oC  
+  *0 =      ~  (D  
+�
+,+(~  {3  
+o4  
+oE  
+ ~  ~  oE  
+ *~ ~  oC  
+ ~  (  
+ �
+  *   0 �      {F  
+o4  
+{F  
+o5  
+ ~  (6  
+9�     (7  
+�  o*  
+o  +�  ~  o8  
+ ~  ~  o9  
+ {:  
+o;  
+o<  
+~  (=  
+~  "��L?Zo>  
+ ~  "  �>Zo?  
+ ~  ~  o@  
+ ~  ~  oA  
+ ~  ~  oB  
+ ~  oC  
+  *0 =      ~  (D  
+�
+,+(~  {F  
+o4  
+oE  
+ ~  ~  oE  
+ *~ ~  oC  
+ ~  (  
+ �  *"(G  
+ *��
+  �  �  �  "  �B�  *  BSJB         v4.0.30319     l   �  #~  H  X  #Strings    �  $  #US �     #GUID   �  x  #Blob         W�		   �3      6               G                           	        �      T� �� �� 
+   � �M 5M �M M tM �M �
+ Ee  x� W� �� 	 	  7 Z, t7 K� x
+ >e 
+ Ee  z, * , �, �,  p  J  l, �, ;M c	 U@ " v�& � , �J  �J  � J   J  �, �, �, �, , �, �, �, �, %,    2         TY 1     (Y I      �Y 1  	   1&i  
+  3� � �V�� � �� �� i� � �V�; �V� �V�/� � � � � �� �� �� �� %� � �� N� �� �� �  �    `P     �� �  W     ��  `     � O �     � : �     �m  �     � <  �!    � P  �!    �m  �!    �m  �!    �  �$    � � �%    � < -&    � � P&    � � <'    � 8 �'    �  �'    �m  �'    �s    �   1   1   1   1   1	 m  m  m
+ ) m 1 m 9 m A m I m Q m Y m q m � m � m � m" � m( i m /4 i �: i � a m KJ !$N � mT � � Z � nm � m )�� 1f� )�� 9M�  m A��  �� � �� Q�� Y�� � ��  �� m  ��  �� iw� �� q� ym
+��� Q� D� g!� Z!� �.�k3�� 3�8	�3�J�0O� �U�Z�k3� (`� !!� !� &!� �!�X!� � 9�h� _o� �.� m       $ � ( �  [ �.  .  (.  G. # P. + �. 3 �. ; �. C �. K �. S �@ [ �A [ �A c �c k �� s  � { f/ A E w &    �       � � � �               B             v�                D               	                  �                  �                  �                  �                  �                      1 i 1 r W W E   InputFeatureUsage`1 List`1 ConfigEntry`1 Vector3 <Module> GUID System.IO UnityEngine.XR Mod1gorilla HarmonyLib System.Collections.Generic rc InstanceId get_IsPatched set_IsPatched lefttriggerpressed <IsPatched>k__BackingField Bind Find netstandard get_forward InputDevice set_minDistance set_maxDistance __instance Awake Spidermonke MassScale set_massScale get_IsVisible ConfigFile leftStopGrapple leftStartGrapple cangrapple canleftgrapple UnityEngine.XRModule UnityEngine.CoreModule UnityEngine.PhysicsModule Name Photon.Realtime PhotonRealtime Combine UnityEngine leftDrawRope MethodType Update DebuggerBrowsableState get_white CompilerGeneratedAttribute DebuggableAttribute DebuggerBrowsableAttribute AssemblyTitleAttribute TargetFrameworkAttribute AssemblyFileVersionAttribute AssemblyInformationalVersionAttribute AssemblyConfigurationAttribute CompilationRelaxationsAttribute AssemblyProductAttribute AssemblyCompanyAttribute RuntimeCompatibilityAttribute get_Value TryGetFeatureValue value HasFlag PhotonUnityNetworking System.Runtime.Versioning Spring set_spring ExamplePatch HarmonyPatch get_ConfigPath set_endWidth set_startWidth PhotonNetwork Material set_material PatchAll UnpatchAll Spidermonke.dll get_Item System get_InRoom get_CurrentRoom leftHandTransform rightHandTransform Enum BepInPlugin BaseUnityPlugin Version BepInEx.Configuration System.Reflection SetPosition get_position GorillaLocomotion Photon.Pun PluginInfo dp Assembly-CSharp sp Shader CapsuleCollider bodyCollider trigger Damper set_damper LineRenderer Player leftlr set_autoConfigureConnectedAnchor set_connectedAnchor set_endColor set_startColor grapplecolor .ctor .cctor MonoBehaviour Physics InputDeviceCharacteristics get_characteristics System.Diagnostics GetDevices InputDevices System.Runtime.CompilerServices DebuggingModes CommonUsages Mod1gorilla.Patches RemoveHarmonyPatches ApplyHarmonyPatches Paths ms GameObject get_gameObject RaycastHit op_Implicit AddComponent SpringJoint leftgrapplePoint leftjoint get_point get_Count set_positionCount wackstart Raycast BepInEx Postfix get_attachedRigidbody GetExecutingAssembly 0Harmony Destroy     ?c o m . r a s s . g o r i l l a t a g . s p i d e r m o n k e  w e b . c f g  C o n f i g u r a t i o n  
+S p r i n g  
+s p r i n g  
+D a m p e r  
+d a m p e r  M a s s S c a l e  m a s s s c a l e  w e b C o l o r  #w e b c o l o r   h e x   c o d e  S p r i t e s / D e f a u l t   �<9)U}J��&�`�
+|       =  Y e  �� ��U    0M  
+  Q
+Qy}}��  ��     ��y}	 y}    �� ���� ��  M   MQ  ��0  
+u �� �� �� Q ����  m mm��
+q  m��  �� mm �� m�{��-�Q>c o m . r a s s . g o r i l l a t a g . s p i d e r m o n k e S p i d e r M o n k e 
+1 . 0 . 0 5MMQmquQ    ]         TWrapNonExceptionThrows     6 .NETStandard,Version=v2.0 TFrameworkDisplayName  Spidermonke  
+ Debug   1.0.0.0  
+ 1.1.2            6 com.rass.gorillatag.spidermonkeSpiderMonke1.0.0  e `GorillaLocomotion.Player, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null   Update            �Jٖ MP   �   t<  t                '   �<  �                             RSDS�}β�K�A�qMdzS�   C:\Users\user\source\repos\Mod1gorilla\Mod1gorilla\Mod1gorilla\obj\Debug\netstandard2.0\Spidermonke.pdb SHA256 �}β�K��[qMdzS��J��?16-����C=          ]=                          O=            _CorQMODMain mscoree.qmod      �%                                                                                                                                                                   �                  0  �                   H   X@  �          �4   V S _ V E R S I O N _ I N F O     ���                 ?                         D    V a r F i l e I n f o     $    T r a n s l a t i o n       �4   S t r i n g F i l e I n f o      0 0 0 0 0 4 b 0   8   C o m p a n y N a m e     S p i d e r m o n k e   @   F i l e D e s c r i p t i o n     S p i d e r m o n k e   0   F i l e V e r s i o n     1 . 0 . 0 . 0   @   I n t e r n a l N a m e   S p i d e r m o n k e . d l l   (   L e g a l C o p y r i g h t       H   O r i g i n a l F i l e n a m e   S p i d e r m o n k e . d l l   8   P r o d u c t N a m e     S p i d e r m o n k e   0   P r o d u c t V e r s i o n   1 . 0 . 0   8   A s s e m b l y   V e r s i o n   1 . 0 . 0 . 0                                                                                                                                                                                                                        0     p=                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
